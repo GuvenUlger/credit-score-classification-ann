@@ -1,4 +1,4 @@
-# Credit Score Classification Project
+# Credit Score Classification Project / Artificial Neural Network (ANN)
 
 
 
